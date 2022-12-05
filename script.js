@@ -9,6 +9,6 @@ function val(){
         alert("password needs to be more than 6 character");
     }
     else{
-        alert("loading....%");
+        alert("loading.....100%");
     }
 }
